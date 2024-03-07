@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fawad526.github.io/formbasic-advancedbyformik/static/css/main.50670e36.css",
-    "main.js": "/fawad526.github.io/formbasic-advancedbyformik/static/js/main.89eb827e.js",
-    "static/js/453.713568ee.chunk.js": "/fawad526.github.io/formbasic-advancedbyformik/static/js/453.713568ee.chunk.js",
-    "index.html": "/fawad526.github.io/formbasic-advancedbyformik/index.html",
-    "main.50670e36.css.map": "/fawad526.github.io/formbasic-advancedbyformik/static/css/main.50670e36.css.map",
-    "main.89eb827e.js.map": "/fawad526.github.io/formbasic-advancedbyformik/static/js/main.89eb827e.js.map",
-    "453.713568ee.chunk.js.map": "/fawad526.github.io/formbasic-advancedbyformik/static/js/453.713568ee.chunk.js.map"
+    "main.css": "/formbasic-advancedbyformik/static/css/main.50670e36.css",
+    "main.js": "/formbasic-advancedbyformik/static/js/main.638f70a6.js",
+    "static/js/453.713568ee.chunk.js": "/formbasic-advancedbyformik/static/js/453.713568ee.chunk.js",
+    "index.html": "/formbasic-advancedbyformik/index.html",
+    "main.50670e36.css.map": "/formbasic-advancedbyformik/static/css/main.50670e36.css.map",
+    "main.638f70a6.js.map": "/formbasic-advancedbyformik/static/js/main.638f70a6.js.map",
+    "453.713568ee.chunk.js.map": "/formbasic-advancedbyformik/static/js/453.713568ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50670e36.css",
-    "static/js/main.89eb827e.js"
+    "static/js/main.638f70a6.js"
   ]
 }
